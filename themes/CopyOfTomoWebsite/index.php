@@ -1,5 +1,17 @@
 <?php get_header();?>
 
+<div class="showcase-wrapper">
+        <div class="showcase">
+            <div class="main-title">
+                <h1>Let's make the future together</h1>
+                <h3>「企業支援」×「IT」×「人材育成」</h3>
+            </div> 
+            <div class="line">
+                <dive class="moving-line"></dive>  
+            </div>    
+        </div>                     
+    </div>     
+
 
 <!-- About -->
 
@@ -53,22 +65,10 @@
 
 <!-- Location ends -->
 
-<!-- Other -->
-<div class="container">
-    <div class="box">
-        <h6>事業内容</h6>
-        <h3>Service</h3>
-        <p>資金調達・企画・制作・運用・人材の支援まで、すべてワンストップでサポート致します。</p>
-
-        <div class="box">
-        <h6>お問い合わせ</h6>
-        <h3>Contact Us</h3>
-        <p>総合企業支援、マーケティング、Web政策などのご相談はこちらからお問い合わせください。</p>
-</div>
 
 
 
-</div>
+
 
 <?php get_footer();?>
 

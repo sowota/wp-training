@@ -1,0 +1,61 @@
+/* Theme Name: Practice website 
+*/
+
+:root {
+    --darkBlue: #1d2088;
+    --darkerBlue:#1B288B;
+    --darkestBlue: #010B65;
+    --lightBlue: #00B8CD;
+
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Service  */
+
+.service h1 {
+    font-size: 46px;
+    font-weight: 400;
+    color: var(--darkBlue);
+    text-transform: uppercase;
+}
+
+.service-details {
+    border: 1px solid #1d2088;
+    position: relative;
+    background-color: white;
+    width: 70%;
+    height: auto;
+}
+.service-details h2 {
+    font-size: 26px;
+    font-weight: 400;
+    margin-bottom: 1em;
+}
+
+.service-details-box {
+    width: 70%;
+    height: 200px ;
+    border: 1px solid #1d2088;
+    position: relative;
+    top: .8em;
+    left: 1.5em;
+    z-index: -5;
+}
+
+
+
+
+
